@@ -1,5 +1,5 @@
 # Anime Recommendation Program
-Anime recommendation program powered by the [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/). 
+Anime recommendation program powered by the [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/). It takes in an anime and a rating, finds users who rated that anime the same, and recommends a new anime based off the most common highly rated anime among those users.
 
 # How to run
 Download `anilist.py`
